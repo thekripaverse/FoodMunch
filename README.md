@@ -57,7 +57,3 @@ FoodMuch demonstrates the design and development of a clean, responsive, and use
 * Implement user authentication and order tracking
 * Integrate a backend for real-time restaurant and menu data
 * Deploy as a full-stack food delivery application
-
-
-
-If you want, I can also prepare a **resume description**, **project report format**, or a **professional GitHub profile summary** based on all your projects.
